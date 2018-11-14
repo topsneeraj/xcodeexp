@@ -10,6 +10,7 @@ import UIKit
 
 class firstviewcontoller: UIViewController {
 
+    @IBOutlet weak var lbl1: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
 
